@@ -3,7 +3,7 @@ name: Dataset 문의
 about: Dataset 관련 문의
 title: "[Dataset]"
 labels: "Dataset 관련 \U0001F4BE"
-assignees: ''
+assignees: dacon-murdoch
 
 ---
 
