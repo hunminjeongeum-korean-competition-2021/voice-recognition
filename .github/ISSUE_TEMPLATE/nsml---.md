@@ -3,7 +3,7 @@ name: NSML 문의
 about: 경진 대회 진행 중 이슈 사항
 title: "[NSML]"
 labels: "NSML 사용 관련 \U0001F4BB"
-assignees: ''
+assignees: bluebrush
 
 ---
 
